@@ -1,0 +1,11 @@
+{
+  "name": "learningbot",
+  "version": "1.0.0",
+  "description": "Learning bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "askreno#2296",
+  "license": "ISC"
+}
